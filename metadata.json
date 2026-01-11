@@ -1,0 +1,7 @@
+{
+  "name": "High Midia Scripts Oficial",
+  "description": "Uma plataforma movida a IA para gerar roteiros virais e autênticos para Reels, TikTok e Instagram Stories, otimizada para engajamento e retenção.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
